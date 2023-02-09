@@ -51,3 +51,9 @@ body {
   border: 1px solid #d5d4d8;
   text-indent: 5px;
 }
+
+.memeimg{
+max-width: 100%;
+grid-column: 1/-1;
+margin: 30px auto;
+}
